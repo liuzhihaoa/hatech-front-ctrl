@@ -1,4 +1,4 @@
-# 同创微前端主项目模板
+#创微前端主项目模板
 
 此项目模板集成Vue、VueRouter、Vuex、HTTP请求、基础布局、DarkBlue主题。主题需要在main.js中集成可切换的主题
 
